@@ -1,1 +1,3 @@
-# 100DaysOfCode
+# 100DaysOfCod
+
+An exciting python journey
